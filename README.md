@@ -1,6 +1,6 @@
 # Attendance_System-using-facial-recognition
 
-This program is written in Python language. I have used facial recogition to mark attendance of students. Haarcascade classifier method is used to train the captured images for new student signup. LBPH face recognizer function is used to recognize the registered faces for marking the attendance in a csv file. I have used tkinter library to create a GUI for Attendanca System.
+This program is written in Python language. I have used facial recogition to mark attendance of students. Haarcascade classifier method is used to train the captured images for new student signup. LBPH face recognizer function is used to recognize the registered faces for marking the attendance in a csv file. I have used tkinter library to create a GUI for Attendance System.
 
 Flow of System:
 1. Run the Attendance_System.py file
