@@ -1,4 +1,6 @@
-Import these libraries
+Import these libraries:
+
+
 import cv2
 import csv
 import tkinter as tk
