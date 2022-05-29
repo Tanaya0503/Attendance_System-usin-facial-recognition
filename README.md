@@ -9,3 +9,5 @@ Flow of System:
 4. Then return to main menu.
 5. Login with newly created credentials.
 6. Mark the attendance. Exit the camera by pressing esc button
+
+NOTE: Import all the libraries mentioned in "Libraries to import file"
